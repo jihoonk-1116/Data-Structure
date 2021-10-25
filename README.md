@@ -9,7 +9,8 @@ Implemented Linked-list to calculate polynomial
 
 Implemented tree constructor and print as in and level order
 
-## Project 3 : 
+## Project 3 : Self-balancing Binary Search Tree (BST)
 
+Implemented a method that rotates of child to balance the tree, a method that handle duplicated keys using chaining
 
 ## Project 4 : 
