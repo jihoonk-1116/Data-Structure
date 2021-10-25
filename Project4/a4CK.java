@@ -210,11 +210,6 @@ public E removeThirdMin(){
          break;
       }
    }
-   /*
-   for(int i =pos;i<size;i++){
-      if(min.compareTo(data[i]) > 0) min = data[i];
-   }
-   */
    for(int i=1;i<size;i++){
       if(min.compareTo(data[i]) ==0) { //remove the values
          swap(i,size);
