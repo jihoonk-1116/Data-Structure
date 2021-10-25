@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/76544061/138622088-eb8d7a30-2381-48fb-8491-d4a0813dfb1a.png)
 
 ### Answer
+![image](https://user-images.githubusercontent.com/76544061/138622680-48d2ebb8-53de-4f34-8ccc-53af6fa227c5.png)
 
 ## Question 4
 ![image](https://user-images.githubusercontent.com/76544061/138622114-9d4dd9e5-1174-43a8-89e0-e0ee2353e520.png)
