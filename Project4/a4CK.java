@@ -31,7 +31,7 @@ public class a4CK{
             maxHeapify(arr, n, largest); 
         } 
     }
-   /*Extra Credit:
+   /*Extra Credit:*/
    private static void quickSort(int[] a){
       quickSort(a, 0, a.length - 1);
    }
@@ -69,7 +69,7 @@ public class a4CK{
       }
       return l;
    }
-   */
+   
    public static void main(String[] args){
       long time, nextTime;
       int[] a = new int[60];//heapsort
