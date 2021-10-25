@@ -214,11 +214,11 @@ class AVLtree<E extends Comparable<? super E>>{
 }
 public int moveNode(AVLNode<E> n,int c){  //Count path using recursion
    if(n==null) return 0;                  //Base case
-   if(n.parent.right == n){               //If the node moved the right before
+   if(n.parent.right == n){               //If the node moved from the right 
       c+= 1 + moveNode(n.left, c);        //Go to left , recursion
       System.out.println("Left Move: " + n.getE());  //Tracking
    }
-   else if(n.parent.left == n){           //If the node moved the left before
+   else if(n.parent.left == n){           //If the node moved from the left
       c+= 1 + moveNode(n.right,c);        //Go to right , recursion
       System.out.println("Right Move: " + n.getE()); 
    }
