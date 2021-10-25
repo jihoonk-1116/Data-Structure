@@ -11,9 +11,7 @@
 
 #### Answer
 ![image](https://user-images.githubusercontent.com/76544061/138620351-e0ec9c3f-b7b8-466d-98d8-4bbd0093a003.png)
-
-![image](https://user-images.githubusercontent.com/76544061/138620361-72c0bfcc-2688-42eb-8a8f-5400c0e96823.png)
-
+![image](https://user-images.githubusercontent.com/76544061/138620484-e3c03500-10d1-418b-9964-194f34439036.png)
 
 ### Question 2
 ![image](https://user-images.githubusercontent.com/76544061/138619930-ebe5b479-090a-4a69-9046-8d60659618bb.png)
