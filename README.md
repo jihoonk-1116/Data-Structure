@@ -1,5 +1,5 @@
 # Data-Structure
-CS313 class at the Spring sesmester of 2020
+CS313 class on the Spring sesmester of 2020
 
 ## Project 1 : Polynomial calculator  <a href ="https://github.com/jihoonk-1116/Data-Structure/tree/main/Project1">[Code]</a>
 
